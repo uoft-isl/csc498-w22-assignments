@@ -1,3 +1,3 @@
-# csc498-robotic-perception
+# csc498-w22
 
 Contains supplemental material to solve assignments. 
